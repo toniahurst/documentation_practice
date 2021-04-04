@@ -1,5 +1,7 @@
 # *documentation_practice*
 
+![markdown-image](markdown-image.png)
+
 >"...To boldly go where no one has gone before."
 
 ### Directory
