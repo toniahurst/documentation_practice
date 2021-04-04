@@ -1,6 +1,6 @@
 # *documentation_practice*
 
-![markdown-image](IMG_0178.png)
+![IMG_0178](IMG_0178.png)
 
 >"...To boldly go where no one has gone before."
 
