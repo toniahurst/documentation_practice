@@ -2,6 +2,14 @@
 
 >"...To boldly go where no one has gone before."
 
+### Directory
+
+[code](code)
+
+[data](data)
+
+[references](references)
+
 ---
 
 **Welcome to my repository for documentation practice.**
